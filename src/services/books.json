@@ -1,0 +1,26 @@
+[
+    {
+        "id": 1,
+        "title": "La Caperucita Roja",
+        "price": 650,
+        "image": "https://i.pinimg.com/originals/ec/84/32/ec84328c3c8938a380ec60c3349a6e38.jpg"
+    },
+    {
+        "id": 2,
+        "title": "La virtud del egoísmo",
+        "price": 500,
+        "image": "https://assets.lectulandia.com/b/ab/Ayn%20Rand/La%20virtud%20del%20egoismo%20(1)/big.jpg"
+    },
+    {
+        "id": 3,
+        "title": "La rebelión de Atlas",
+        "price": 900,
+        "image": "https://static.cpau.org/revistanotas/contenidos/41/cultura/libro-la-rebelion-de-atlas-ayn-rand.jpg"
+    },
+    {
+        "id": 4,
+        "title": "El Manantial",
+        "price": 200,
+        "image": "https://images.cdn3.buscalibre.com/fit-in/360x360/3b/b3/3bb358d8593fc57852eeb4138bf2ce82.jpg"
+    }
+]

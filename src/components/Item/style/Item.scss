@@ -1,0 +1,9 @@
+.favIcon{
+    color:red !important;
+    &:focus{
+        color: red !important;
+    }
+    &:active{
+        color: red !important
+    }
+}
