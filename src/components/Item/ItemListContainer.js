@@ -1,8 +1,8 @@
-import { Container, Box, Grid } from "@mui/material";
+import { Container } from "@mui/material";
 
 import data from "../../services/books.json";
-import SearchBar from "../Navbar/SearchBar";
-import ItemCard from "./Item";
+import SearchBar from "./SearchBar";
+
 const ItemListContainer = () => {
   return (
     <Container>
